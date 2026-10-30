@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://hkust.edu.hk/) and the supervisor of the group is [Professor Junxian He](https://cse.hkust.edu.hk/~jhe/). I previously worked with Professor Junxian He during my undergraduate studies at Shanghai Jiao Tong University. My research focuses on natural language processing and machine learning.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, and my Ph.D. supervisor is Professor Junxian He. I previously worked with Professor Junxian He during my undergraduate studies at Shanghai Jiao Tong University. My research focuses on natural language processing and machine learning.
 
 ## Academic background
 
